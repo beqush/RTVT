@@ -26,7 +26,7 @@ const AuthorizationSide = () => {
                     <Route path="/registration"  element={<Registration/>} />
                     <Route path="/registrationlast" element={<RegistrationLast />} />
                     
-
+            {/* ss */}
 
                 </Routes>
 
